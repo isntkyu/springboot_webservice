@@ -1,6 +1,5 @@
 package com.isntkyu.book.springboot.config.auth;
 
-import com.isntkyu.book.springboot.config.auth.CustomOAuth2UserService;
 import com.isntkyu.book.springboot.domain.user.Role;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
